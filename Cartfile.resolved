@@ -1,0 +1,3 @@
+github "antitypical/Result" "2.1.3"
+github "ReactiveCocoa/ReactiveCocoa" "v4.2.2"
+github "KevinVitale/ReactiveJSON" "0.0.2-alpha"
