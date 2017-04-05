@@ -1,2 +1,2 @@
 # Networking and JSON
-This project was created using a NetworkController to handle network requests and a Singleton to handle the data. This works with static unchanging data but added error checking just to be sure.
+I was having issues importing the ReactiveJSON library, I tried from the original fork as well but I believe the issue lies with Swift 3.1 and Xcode 8.3 which was released about a week ago. This project was created using a NetworkController to handle network requests and a Singleton to handle the data. This works with static unchanging data but added error checking just to be sure.
